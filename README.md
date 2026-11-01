@@ -56,14 +56,6 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityayadavxdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityayadavxdev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" width="75%" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=adityayadavxdev&theme=tokyonight&hide_border=true" alt="GitHub Streak Statistics" width="75%" />
 </p>
 
