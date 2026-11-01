@@ -46,14 +46,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=adityayadavxdev&theme=tokyonight&hide_border=true" alt="GitHub Streak Statistics" width="75%" />
-</p>
-
----
-
 <p align="center">
   <b>✨ Keep Learning | Keep Building | Keep Growing ✨</b>
 </p>
